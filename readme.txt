@@ -4,7 +4,7 @@ Requires at least: 4.7
 Tested up to: 4.8
 License: MIT
 
-Plugin sencillo para enlaces recomendados
+Plugin sencillo para enlaces recomendados basado en [News ticker](https://es.wordpress.org/plugins/news-ticker-tj/)
 
 == Description ==
 Plugin sencillo para enlaces recomendados
