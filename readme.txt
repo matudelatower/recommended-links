@@ -21,5 +21,5 @@ Ejemplo 2:
 `[c_recommended_links extended="true" show_category="false"]`
 
 == Screenshots ==
-1. Ejemplo 1
-2. Ejemplo 2
+1. ![Ejemplo 1](https://raw.githubusercontent.com/matudelatower/recommended-links/master/screenshots/ejemplo%201.png)
+2. ![Ejemplo 2](https://raw.githubusercontent.com/matudelatower/recommended-links/master/screenshots/ejemplo%202.png)
